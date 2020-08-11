@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032237969651",
+    "firebase_url": "https://animalwiki-bd31f.firebaseio.com",
+    "project_id": "animalwiki-bd31f",
+    "storage_bucket": "animalwiki-bd31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032237969651:android:8773ad275db58add70c786",
+        "android_client_info": {
+          "package_name": "kushagra.d.firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032237969651-ftjdfl4l2r9pk54chh7lfhasv4fdh9do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1WmJgGHWMNJDPtY1ou5lu0dgo8gXSQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032237969651-ftjdfl4l2r9pk54chh7lfhasv4fdh9do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
